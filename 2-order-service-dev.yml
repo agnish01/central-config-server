@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: 4-payment-service
+    name: 2-order-service
 
   datasource:
     url: jdbc:mysql://localhost:3306/microservices_project_db?createDatabaseIfNotExist=true
